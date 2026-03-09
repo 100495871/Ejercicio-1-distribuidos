@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <mutex.h>
-#include "claves.h"
+#include <pthread.h>
+#include "../include/claves.h"
 
 struct Nodo {
     char clave[256];
