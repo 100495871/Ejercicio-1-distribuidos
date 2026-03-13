@@ -29,7 +29,6 @@ void* handle_request(void* arg) {
              "%s%d", CLIENT_QUEUE_PREFIX, req->client_id);
     
     // Abrir cola del cliente (no bloqueante para evitar deadlock)
-    struct mq_attr attr = {0, 1, sizeof(ResponseMessage), 0};
     client_q = mq_open(client_queue_name, O_WRONLY);
     
     if (client_q == (mqd_t)-1) {
