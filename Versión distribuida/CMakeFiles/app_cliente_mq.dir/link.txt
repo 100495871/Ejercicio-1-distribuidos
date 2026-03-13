@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -Wall -g -Wl,--dependency-file=CMakeFiles/app_cliente_mq.dir/link.d CMakeFiles/app_cliente_mq.dir/src/app_cliente.c.o -o app_cliente_mq  -Wl,-rpath,"/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida" libproxyclaves.so -lrt

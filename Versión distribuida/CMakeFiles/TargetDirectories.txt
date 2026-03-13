@@ -1,0 +1,9 @@
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/claves.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/app_cliente.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/proxyclaves.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/app_cliente_mq.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/servidor_mq.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/clean-queues.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/distclean.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/edit_cache.dir
+/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida/CMakeFiles/rebuild_cache.dir

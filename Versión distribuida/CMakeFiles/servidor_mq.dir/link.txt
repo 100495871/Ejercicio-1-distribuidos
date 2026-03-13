@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc  -Wall -g -Wl,--dependency-file=CMakeFiles/servidor_mq.dir/link.d "CMakeFiles/servidor_mq.dir/src/servidor-mq.c.o" -o servidor_mq  -Wl,-rpath,"/home/university/Documents/University/3rd year/2o cuatri/Sistemas distribuidos/Ejercicio-1-distribuidos/Versión distribuida" libclaves.so -lrt

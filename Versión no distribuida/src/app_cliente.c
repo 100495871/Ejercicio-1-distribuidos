@@ -10,7 +10,7 @@ void print_test(const char *test_name, bool condition) {
 }
 
 int main() {
-    printf("--- INICIANDO PLAN DE PRUEBAS EXHAUSTIVO ---\n\n");
+    printf("INICIANDO PLAN DE PRUEBAS EXHAUSTIVO\n\n");
 
     // 1. Inicialización del sistema
     print_test("Inicializar sistema (destroy)", destroy() == 0);
@@ -21,7 +21,7 @@ int main() {
     float v2_1[] = {1.1, 2.2, 3.3};
     struct Paquete v3_1 = {10, 20, 30};
 
-    // 2. Prueba de inserción exitosa (set_value)
+    // 2. Prueba de inserción (set_value)
     print_test("Insertar clave_1 válida", set_value(key1, v1_1, 3, v2_1, v3_1) == 0);
 
     // 3. Prueba de existencia (exist)
