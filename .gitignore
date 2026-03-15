@@ -1,0 +1,5 @@
+*build/
+preparar_gemini.sh
+gemini/
+.vscode/
+CMakeFiles/

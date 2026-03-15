@@ -10,10 +10,10 @@ void print_test(const char *test_name, bool condition) {
 }
 
 int main() {
-    printf("INICIANDO PLAN DE PRUEBAS EXHAUSTIVO\n\n");
+    printf("INICIANDO TESTS\n\n");
 
     // 1. Inicialización del sistema
-    print_test("Inicializar sistema (destroy)", destroy() == 0);
+    print_test("Inicializar sistema destruyendo primero", destroy() == 0);
 
     // Datos de prueba
     char *key1 = "clave_1";
